@@ -1,0 +1,148 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamSF",
+      "GroupId": "",
+      "Name": "SF"
+    },
+    {
+      "Id": "ParamSFhole",
+      "GroupId": "",
+      "Name": "SFhole"
+    },
+    {
+      "Id": "ParamShock",
+      "GroupId": "",
+      "Name": "惊呆"
+    },
+    {
+      "Id": "ParamBreath2",
+      "GroupId": "",
+      "Name": "呼气"
+    },
+    {
+      "Id": "ParamLaguh",
+      "GroupId": "",
+      "Name": "大笑"
+    },
+    {
+      "Id": "ParamStar",
+      "GroupId": "",
+      "Name": "星星"
+    },
+    {
+      "Id": "ParamSweat",
+      "GroupId": "",
+      "Name": "汗颜"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼开合"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼开合"
+    },
+    {
+      "Id": "ParamMouseLeftDown",
+      "GroupId": "",
+      "Name": "鼠标左键"
+    },
+    {
+      "Id": "ParamMouseRightDown",
+      "GroupId": "",
+      "Name": "鼠标右键"
+    },
+    {
+      "Id": "ParamMouseX",
+      "GroupId": "",
+      "Name": "鼠标X"
+    },
+    {
+      "Id": "ParamMouseY",
+      "GroupId": "",
+      "Name": "鼠标Y"
+    },
+    {
+      "Id": "CatParamLeftHandDown",
+      "GroupId": "",
+      "Name": "键盘按下"
+    },
+    {
+      "Id": "Paramflower",
+      "GroupId": "",
+      "Name": "flower"
+    },
+    {
+      "Id": "Paramspin",
+      "GroupId": "",
+      "Name": "flowerspin"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part11",
+      "Name": "bongo cat - live2d副本.png"
+    },
+    {
+      "Id": "Part10",
+      "Name": "bongo cat - live2d副本1.png"
+    },
+    {
+      "Id": "Part2",
+      "Name": "星星眼"
+    },
+    {
+      "Id": "Part",
+      "Name": "惊呆"
+    },
+    {
+      "Id": "Part6",
+      "Name": "汗颜"
+    },
+    {
+      "Id": "Part3",
+      "Name": "正常"
+    },
+    {
+      "Id": "Part4",
+      "Name": "呼气"
+    },
+    {
+      "Id": "Part5",
+      "Name": "大笑"
+    },
+    {
+      "Id": "Part7",
+      "Name": "按钮"
+    },
+    {
+      "Id": "Part9",
+      "Name": "白字"
+    },
+    {
+      "Id": "Part8",
+      "Name": "暗字"
+    }
+  ],
+  "CombinedParameters": [
+    [
+      "ParamMouseX",
+      "ParamMouseY"
+    ]
+  ]
+}

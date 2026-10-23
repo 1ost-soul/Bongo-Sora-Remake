@@ -1,0 +1,106 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2.767,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 4,
+		"TotalSegmentCount": 10,
+		"TotalPointCount": 28,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamSF",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.189,
+				0,
+				0.378,
+				0,
+				0.567,
+				0,
+				1,
+				0.789,
+				0,
+				1.011,
+				1,
+				1.233,
+				1,
+				1,
+				1.433,
+				1,
+				1.633,
+				1,
+				1.833,
+				1,
+				1,
+				1.967,
+				1,
+				2.1,
+				0,
+				2.233,
+				0,
+				0,
+				2.767,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamSFhole",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.189,
+				0,
+				0.378,
+				1,
+				0.567,
+				1,
+				1,
+				1.122,
+				1,
+				1.678,
+				1,
+				2.233,
+				1,
+				1,
+				2.411,
+				1,
+				2.589,
+				0,
+				2.767,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				0,
+				2.767,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeROpen",
+			"Segments": [
+				0,
+				1,
+				0,
+				2.767,
+				1
+			]
+		}
+	]
+}
